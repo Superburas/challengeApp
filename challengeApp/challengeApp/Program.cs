@@ -1,5 +1,5 @@
-﻿var TwojeImię = "Ewa";
-var TwojaPłeć = "kobieta";
+﻿string TwojeImię = "Ewa";
+string TwojaPłeć = "kobieta";
 var TwójWiek = 17;
 string Tekst1 = " - jesteś 33 letnią kobietą.";
 string Tekst2 = " - jesteś kobietą poniżej 30 lat.";
